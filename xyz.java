@@ -1,0 +1,4 @@
+calss abc
+{
+main()
+}
